@@ -1,0 +1,20 @@
+C:\Users\MONSTERMC\Desktop\New folder\Windowslocker\obj\Debug\Windowslocker.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\New folder\Windowslocker\obj\Debug\Windowslocker.Form1.resources
+C:\Users\MONSTERMC\Desktop\New folder\Windowslocker\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder\Windowslocker\obj\Debug\Windowslocker.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder\Windowslocker\obj\Debug\Windowslocker.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder\Windowslocker\bin\Debug\Windowslocker.exe.config
+C:\Users\MONSTERMC\Desktop\New folder\Windowslocker\bin\Debug\Windowslocker.exe
+C:\Users\MONSTERMC\Desktop\New folder\Windowslocker\bin\Debug\Windowslocker.pdb
+C:\Users\MONSTERMC\Desktop\New folder\Windowslocker\obj\Debug\Windowslocker.exe
+C:\Users\MONSTERMC\Desktop\New folder\Windowslocker\obj\Debug\Windowslocker.pdb
+C:\Users\MONSTERMC\Desktop\Windowslocker\bin\Debug\Fuck You.exe.config
+C:\Users\MONSTERMC\Desktop\Windowslocker\bin\Debug\Fuck You.exe
+C:\Users\MONSTERMC\Desktop\Windowslocker\bin\Debug\Fuck You.pdb
+C:\Users\MONSTERMC\Desktop\Windowslocker\obj\Debug\Windowslocker.vbprojAssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\Windowslocker\obj\Debug\Windowslocker.Form1.resources
+C:\Users\MONSTERMC\Desktop\Windowslocker\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\Windowslocker\obj\Debug\Windowslocker.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\Windowslocker\obj\Debug\Windowslocker.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\Windowslocker\obj\Debug\Fuck You.exe
+C:\Users\MONSTERMC\Desktop\Windowslocker\obj\Debug\Fuck You.pdb
